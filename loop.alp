@@ -1,0 +1,33 @@
+1120 x
+1121 y
+
+3020 x-> acc
+3122 acc-> z
+3022 z-> acc
+4211 >> v
+1021 out >> y
+2100 dec acc
+3122 acc -> z
+4005 >> 5
+9900
+
+
+
+
+
+
+
+
+
+
+1120  x input
+1121  y input
+3021  load y in acc
+3122  store acc in z(y)
+3020
+2122
+4120
+3123
+41
+
+
